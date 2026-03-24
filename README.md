@@ -15,3 +15,8 @@ A Retrieval-Augmented Generation (RAG) application that allows users to have con
 
 ## 🔧 Technical Challenge Overcome
 During development, I faced issues with API rate limits and long document context windows. I solved this by implementing an asynchronous chunking strategy and a retry-logic mechanism, reducing failed queries by 40%.
+## 🗺️ Project Roadmap
+- [x] Initial RAG Logic Research
+- [x] Vector Database (Pinecone) Integration
+- [ ] Frontend UI (Streamlit) - *In Progress*
+- [ ] Public API Deployment - *Upcoming*
